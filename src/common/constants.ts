@@ -5,4 +5,4 @@
 //bot chat nhóm telegroup
 export const tokenBot = "7142758454:AAEga1aF2Ho-AAPLZBe4TO7dm_E0M26PwfY";
 export const idBot = -4209140394;
-export const URL = "http://localhost:9986/api";
+export const URL = "https://chat-bot-tele-bank.vercel.app/api";

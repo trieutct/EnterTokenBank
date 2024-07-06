@@ -8,7 +8,7 @@
 
 <script setup lang="ts">
 import { ref, onMounted, onUnmounted } from "vue";
-import { URL } from "@/common/constants.ts";
+import { URL } from "@/common/constants";
 import axios from "axios";
 const tokentx = ref<string>("");
 const tokenExpriedCount = ref<number>(0);
